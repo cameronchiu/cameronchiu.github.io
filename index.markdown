@@ -5,6 +5,7 @@
 layout: home
 ---
 
+<br>
 ## Projects
 - **Roots (HackMIT Meta-Sponsored Winner)**\\
   A 3D audio-visual experience controlled by an Arduino dial teaching a valuable lesson about the duality of altruism and self-preservation.

@@ -28,8 +28,7 @@ github_username:  cameronchiu
 instagram_username: cameronchiu
 
 # Build settings
-theme: null
-markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
