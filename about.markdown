@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi!\\
+\\
+My name is Cameron and I'm a junior at Carnegie Mellon University studying Computer Science. On this site you will find information about my academic and professional career, along with projects that I have completed or am currently developing. I'm passionate about many things--software, computer science, music, art, coffee, film, cooking--but I have a special place in my heart for classical music (my pre-CS endeavor). I like to view coding as an artform and am inspired to bring artistic depth to every project I work on. Happy browsing :)
