@@ -5,7 +5,20 @@
 layout: home
 ---
 
+<head>
+  <link rel="stylesheet" href="/my-style.css">
+</head>
+
+# Cameron Chiu
+## Bachelor of Science in Computer Science at Carnegie Mellon University
+
+![Alt text](headshot.png){: .align-center}
+[cameronchiu@cmu.edu](mailto:cameronchiu@cmu.edu){: .align-center}
+<center>224-578-0538</center>
+
+
 <br>
+
 ## Projects
 - **Roots (HackMIT Meta-Sponsored Winner)**\\
   A 3D audio-visual experience controlled by an Arduino dial teaching a valuable lesson about the duality of altruism and self-preservation.
@@ -39,10 +52,12 @@ layout: home
   Collaborative virtual canvases (accessible via QR codes) located in different department buildings on campus to display collective artistic vision of students.
 
 
-<br>
+
+
 
 
 ## Coursework
+
 *Major: Cello Performance*
 
 **Fall 2020**
